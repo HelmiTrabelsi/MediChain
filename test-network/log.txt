@@ -1,0 +1,1 @@
+[34m2020-07-09 13:19:44.993 EDT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 payload:"{\"Product_Id\":\"1eSVs8oIWQYLhES4CpTUFqGmYTV\",\"Manufacturing_Date\":\"12/06/2015\",\"Expiration_Date\":\"12/06/2018\",\"Name\":\"Doliprane\",\"Manufacturer\":\"Sanofi\",\"Holders\":[\"Sanofi\"]}" 
