@@ -1,3 +1,4 @@
+#Restart network
 sudo ./network.sh down
 ./network.sh up -ca
 ./network.sh createChannel -ca
