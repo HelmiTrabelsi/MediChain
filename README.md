@@ -15,6 +15,8 @@ Si  un réseau est déja en place, il faut faire:
 ```bash
 ./RestartNetwork.sh
 ```
+## Chainecode
+Le chamin du chaincode est : chaincode/fabcar/go/abstore.go
 ## Démarrer le serveur
 Pour démarrer le serveur web, il faut exécuter les commandes suivante:
 ```bash
